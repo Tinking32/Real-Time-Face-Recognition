@@ -1,0 +1,18 @@
+# === UI + 图像处理 ===
+PyQt5==5.15.11
+opencv-python==4.10.0
+Pillow==10.2.0
+
+# === 机器学习与模型加载 ===
+scikit-learn==1.6.0
+joblib==1.4.2
+numpy==1.26.4
+scipy==1.15.0
+
+# === 深度学习与人脸检测 ===
+torch==2.2.2
+torchvision==0.17.2
+facenet-pytorch==2.6.0
+
+# === 其他（如 json, 数据集处理）===
+pandas==2.2.3
